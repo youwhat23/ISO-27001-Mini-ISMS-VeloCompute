@@ -1,8 +1,8 @@
 # ISO-27001-Mini-ISMS-VeloCompute
 Implementation of an ISO/IEC 27001:2022 framework for a fictional AI startup. Demonstrating risk-based control selection, cloud security governance, and compliance verification.
 ISO 27001:2022 MINI-ISMS Project
-By Victor Beatón (be.peter177@gmail.com)
-LinkedIn: www.linkedin.com/in/victor-beatón-2627562a7
+# By Victor Beatón (be.peter177@gmail.com)
+# LinkedIn: www.linkedin.com/in/victor-beatón-2627562a7
 	After obtaining the PECB ISO/IEC 27001:2022 Foundation Certificate, I really wanted to test my recently acquired knowledge of this GRC standard. Researched various beginner projects to put into practice all concepts and concluded that an ISO/IEC 27001:2022 aligned Mini-ISMS was the best option in terms of availability. Of course, being a beginner has serious limitations: time (in an industry that continually grows and prepares for new challenges), real-world experience, and the main difficulty: a real company/organization to analyze. 
 Content of the Project
 	In this project you will find a fictional case study. In this case, I used AI (Gemini) to create a fictional tech startup located in El Salvador, with a staff of 25 employees. The company in question: Velo Compute, recognizable for their flag-ship service: VeloAnalytics SaaS Platform. This tool analyses consumer behavior and optimize inventory forecasting for retail enterprises.
