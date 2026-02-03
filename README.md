@@ -15,8 +15,8 @@ Disclaimer:
 Warning: This is a lean GRC methodology, ISO 27001:2022 aligned. Not all deliverables of a full ISO 27001:2022 are presented. In this case, prioritizing the 15 most critical ISO 27001:2022 controls to provide maximum risk reduction for a small, high-growth startup. the size of the company also is favorable for a small, but well documented framework. 
 	
 Deliverables: 
- ISMS Scope & Context Document
- Statement of Applicability (SOA)
- Risk Assessment and Risk Treatment Plan 
+ ISMS Scope & Context Document,
+ Statement of Applicability (SOA),
+ Risk Assessment and Risk Treatment Plan, 
  Audit Checklist (Compliance Indicators and Proof)
 	
